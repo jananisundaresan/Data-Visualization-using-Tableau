@@ -109,8 +109,7 @@ img {
 .content {
   height: 100%;  
   position: fixed;
-  left:35%;  
-  max-width: 900px;
+  left:35%;
   margin: 0 auto;
   overflow: scroll;
   padding: 2em;
